@@ -1,0 +1,253 @@
+station_a,station_b,minutes,line
+Paddington,Edgware Road(Bakerloo),11,Bakerloo,B1
+Edgware Road(Bakerloo),Paddington,11,Bakerloo,B1R
+Edgware Road(Bakerloo),Marylebone,7,Bakerloo,B2
+Marylebone,Edgware Road(Bakerloo),7,Bakerloo,B2R
+Marylebone,Baker Street,6,Bakerloo,B3
+Baker Street,Marylebone,6,Bakerloo,B3R
+Baker Street,Regent's Park,10,Bakerloo,B4
+Regent's Park,Baker Street,10,Bakerloo,B4R
+Regent's Park,Oxford Circus,15,Bakerloo,B5
+Oxford Circus,Regent's Park,15,Bakerloo,B5R
+Oxford Circus,Piccadilly Circus,12,Bakerloo,B6
+Piccadilly Circus,Oxford Circus,12,Bakerloo,B6R
+Piccadilly Circus,Charing Cross,11,Bakerloo,B7
+Charing Cross,Piccadilly Circus,11,Bakerloo,B7R
+Charing Cross,Embankment,3,Bakerloo,B8
+Embankment,Charing Cross,3,Bakerloo,B8R
+Embankment,Waterloo,6,Bakerloo,B9
+Waterloo,Embankment,6,Bakerloo,B9R
+Waterloo,Lambeth North,9,Bakerloo,B10
+Lambeth North,Waterloo,9,Bakerloo,B10R
+Lambeth North,Elephant & Castle,18,Bakerloo,B11
+Elephant & Castle,Lambeth North,18,Bakerloo,B11R
+Notting Hill Gate,Queensway,8,Central,CE1
+Queensway,Notting Hill Gate,8,Central,CE1R
+Queensway,Lancaster Gate,10,Central,CE2
+Lancaster Gate,Queensway,10,Central,CE2R
+Lancaster Gate,Marble Arch,15,Central,CE3
+Marble Arch,Lancaster Gate,15,Central,CE3R
+Marble Arch,Bond Street,7,Central,CE4
+Bond Street,Marble Arch,7,Central,CE4R
+Bond Street,Oxford Circus,7,Central,CE5
+Oxford Circus,Bond Street,7,Central,CE5R
+Oxford Circus,Tottenham Court Road,9,Central,CE6
+Tottenham Court Road,Oxford Circus,9,Central,CE6R
+Tottenham Court Road,Holborn,10,Central,CE7
+Holborn,Tottenham Court Road,10,Central,CE7R
+Holborn,Chancery Lane,10,Central,CE8
+Chancery Lane,Holborn,10,Central,CE8R
+Chancery Lane,St. Paul's,14,Central,CE9
+St. Paul's,Chancery Lane,14,Central,CE9R
+St. Paul's,Bank,9,Central,CE10
+Bank,St. Paul's,9,Central,CE10R
+Bank,Liverpool Street,10,Central,CE11
+Liverpool Street,Bank,10,Central,CE11R
+Baker Street,Bond Street,16,Jubilee,J1
+Bond Street,Baker Street,16,Jubilee,J1R
+Bond Street,Green Park,14,Jubilee,J2
+Green Park,Bond Street,14,Jubilee,J2R
+Green Park,Westminster,21,Jubilee,J3
+Westminster,Green Park,21,Jubilee,J3R
+Westminster,Waterloo,17,Jubilee,J4
+Waterloo,Westminster,17,Jubilee,J4R
+Waterloo,Southwark,8,Jubilee,J5
+Southwark,Waterloo,8,Jubilee,J5R
+Southwark,London Bridge,19,Jubilee,J6
+London Bridge,Southwark,19,Jubilee,J6R
+Edgware Road,Paddington,10,District,D1
+Paddington,Edgware Road,10,District,D1R
+Paddington,Bayswater,17,District,D2
+Bayswater,Paddington,17,District,D2R
+Bayswater,Notting Hill Gate,10,District,D3
+Notting Hill Gate,Bayswater,10,District,D3R
+Notting Hill Gate,High Street Kensington,13,District,D4
+High Street Kensington,Notting Hill Gate,13,District,D4R
+High Street Kensington,Gloucester Road,18,District,D5
+Gloucester Road,High Street Kensington,18,District,D5R
+Earl's Court,Gloucester Road,12,District,D6
+Gloucester Road,Earl's Court,12,District,D6R
+Gloucester Road,South Kensington,8,District,D7
+South Kensington,Gloucester Road,8,District,D7R
+South Kensington,Sloane Square,17,District,D8
+Sloane Square,South Kensington,17,District,D8R
+Sloane Square,Victoria,13,District,D9
+Victoria,Sloane Square,13,District,D9R
+Victoria,St James's Park,11,District,D10
+St James's Park,Victoria,11,District,D10R
+St James's Park,Westminster,11,District,D11
+Westminster,St James's Park,11,District,D11R
+Westminster,Embankment,10,District,D12
+Embankment,Westminster,10,District,D12R
+Embankment,Temple,9,District,D13
+Temple,Embankment,9,District,D13R
+Temple,Blackfriars,10,District,D14
+Blackfriars,Temple,10,District,D14R
+Blackfriars,Mansion House,10,District,D15
+Mansion House,Blackfriars,10,District,D15R
+Mansion House,Cannon Street,4,District,D16
+Cannon Street,Mansion House,4,District,D16R
+Cannon Street,Monument,5,District,D17
+Monument,Cannon Street,5,District,D17R
+Monument,Tower Hill,10,District,D18
+Tower Hill,Monument,10,District,D18R
+Tower Hill,Aldgate East,10,District,D19
+Aldgate East,Tower Hill,10,District,D19R
+Edgware Road,Paddington,10,Circle,CI1
+Paddington,Edgware Road,10,Circle,CI1R
+Paddington,Bayswater,17,Circle,CI2
+Bayswater,Paddington,17,Circle,CI2R
+Bayswater,Notting Hill Gate,10,Circle,CI3
+Notting Hill Gate,Bayswater,10,Circle,CI3R
+Notting Hill Gate,High Street Kensington,13,Circle,CI4
+High Street Kensington,Notting Hill Gate,13,Circle,CI4R
+High Street Kensington,Gloucester Road,12,Circle,CI5
+Gloucester Road,High Street Kensington,12,Circle,CI5R
+Gloucester Road,South Kensington,8,Circle,CI6
+South Kensington,Gloucester Road,8,Circle,CI6R
+South Kensington,Sloane Square,17,Circle,CI7
+Sloane Square,South Kensington,17,Circle,CI7R
+Sloane Square,Victoria,13,Circle,CI8
+Victoria,Sloane Square,13,Circle,CI8R
+Victoria,St James's Park,11,Circle,CI9
+St James's Park,Victoria,11,Circle,CI9R
+St James's Park,Westminster,11,Circle,CI10
+Westminster,St James's Park,11,Circle,CI10R
+Westminster,Embankment,10,Circle,CI11
+Embankment,Westminster,10,Circle,CI11R
+Embankment,Temple,9,Circle,CI12
+Temple,Embankment,9,Circle,CI12R
+Temple,Blackfriars,10,Circle,CI13
+Blackfriars,Temple,10,Circle,CI13R
+Blackfriars,Mansion House,10,Circle,CI14
+Mansion House,Blackfriars,10,Circle,CI14R
+Mansion House,Cannon Street,4,Circle,CI15
+Cannon Street,Mansion House,4,Circle,CI15R
+Cannon Street,Monument,5,Circle,CI16
+Monument,Cannon Street,5,Circle,CI16R
+Monument,Tower Hill,10,Circle,CI17
+Tower Hill,Monument,10,Circle,CI17R
+Tower Hill,Aldgate,9,Circle,CI18
+Aldgate,Tower Hill,9,Circle,CI18R
+Aldgate,Liverpool Street,9,Circle,CI19
+Liverpool Street,Aldgate,9,Circle,CI19R
+Liverpool Street,Moorgate,6,Circle,CI20
+Moorgate,Liverpool Street,6,Circle,CI20R
+Moorgate,Barbican,10,Circle,CI21
+Barbican,Moorgate,10,Circle,CI21R
+Barbican,Farringdon,8,Circle,CI22
+Farringdon,Barbican,8,Circle,CI22R
+Farringdon,King's Cross St. Pancras,26,Circle,CI23
+King's Cross St. Pancras,Farringdon,26,Circle,CI23R
+King's Cross St. Pancras,Euston Square,15,Circle,CI24
+Euston Square,King's Cross St. Pancras,15,Circle,CI24R
+Euston Square,Great Portland Street,10,Circle,CI25
+Great Portland Street,Euston Square,10,Circle,CI25R
+Great Portland Street,Baker Street,13,Circle,CI26
+Baker Street,Great Portland Street,13,Circle,CI26R
+Baker Street,Edgware Road,10,Circle,CI27
+Edgware Road,Baker Street,10,Circle,CI27R
+Aldgate,Liverpool Street,9,Metropolitan,M1
+Liverpool Street,Aldgate,9,Metropolitan,M1R
+Liverpool Street,Moorgate,6,Metropolitan,M2
+Moorgate,Liverpool Street,6,Metropolitan,M2R
+Moorgate,Barbican,10,Metropolitan,M3
+Barbican,Moorgate,10,Metropolitan,M3R
+Barbican,Farringdon,8,Metropolitan,M4
+Farringdon,Barbican,8,Metropolitan,M4R
+Farringdon,King's Cross St. Pancras,26,Metropolitan,M5
+King's Cross St. Pancras,Farringdon,26,Metropolitan,M5R
+King's Cross St. Pancras,Euston Square,15,Metropolitan,M6
+Euston Square,King's Cross St. Pancras,15,Metropolitan,M6R
+Euston Square,Great Portland Street,10,Metropolitan,M7
+Great Portland Street,Euston Square,10,Metropolitan,M7R
+Great Portland Street,Baker Street,13,Metropolitan,M8
+Baker Street,Great Portland Street,13,Metropolitan,M8R
+King's Cross St. Pancras,Euston,12,Victoria,V1
+Euston,King's Cross St. Pancras,12,Victoria,V1R
+Euston,Warren Street,9,Victoria,V2
+Warren Street,Euston,9,Victoria,V2R
+Warren Street,Oxford Circus,18,Victoria,V3
+Oxford Circus,Warren Street,18,Victoria,V3R
+Oxford Circus,Green Park,15,Victoria,V4
+Green Park,Oxford Circus,15,Victoria,V4R
+Green Park,Victoria,19,Victoria,V5
+Victoria,Green Park,19,Victoria,V5R
+Victoria,Pimlico,12,Victoria,V6
+Pimlico,Victoria,12,Victoria,V6R
+Pimlico,Vauxhall,18,Victoria,V7
+Vauxhall,Pimlico,18,Victoria,V7R
+Earl's Court,Gloucester Road,12,Piccadilly,P1
+Gloucester Road,Earl's Court,12,Piccadilly,P1R
+Gloucester Road,South Kensington,8,Piccadilly,P2
+South Kensington,Gloucester Road,8,Piccadilly,P2R
+South Kensington,Knightsbridge,17,Piccadilly,P3
+Knightsbridge,South Kensington,17,Piccadilly,P3R
+Knightsbridge,Hyde Park Corner,7,Piccadilly,P4
+Hyde Park Corner,Knightsbridge,7,Piccadilly,P4R
+Hyde Park Corner,Green Park,12,Piccadilly,P5
+Green Park,Hyde Park Corner,12,Piccadilly,P5R
+Green Park,Piccadilly Circus,8,Piccadilly,P6
+Piccadilly Circus,Green Park,8,Piccadilly,P6R
+Piccadilly Circus,Leicester Square,6,Piccadilly,P7
+Leicester Square,Piccadilly Circus,6,Piccadilly,P7R
+Leicester Square,Covent Garden,4,Piccadilly,P8
+Covent Garden,Leicester Square,4,Piccadilly,P8R
+Covent Garden,Holborn,8,Piccadilly,P9
+Holborn,Covent Garden,8,Piccadilly,P9R
+Holborn,Russell Square,9,Piccadilly,P10
+Russell Square,Holborn,9,Piccadilly,P10R
+Russell Square,King's Cross St. Pancras,14,Piccadilly,P11
+King's Cross St. Pancras,Russell Square,14,Piccadilly,P11R
+Euston,King's Cross St. Pancras,12,Northern,N1
+King's Cross St. Pancras,Euston,12,Northern,N1R
+King's Cross St. Pancras,Angel,16,Northern,N2
+Angel,King's Cross St. Pancras,16,Northern,N2R
+Angel,Old Street,20,Northern,N3
+Old Street,Angel,20,Northern,N3R
+Old Street,Moorgate,9,Northern,N4
+Moorgate,Old Street,9,Northern,N4R
+Moorgate,Bank,9,Northern,N5
+Bank,Moorgate,9,Northern,N5R
+Bank,London Bridge,6,Northern,N6
+London Bridge,Bank,6,Northern,N6R
+London Bridge,Borough,9,Northern,N7
+Borough,London Bridge,9,Northern,N7R
+Borough,Elephant & Castle,13,Northern,N8
+Elephant & Castle,Borough,13,Northern,N8R
+Euston,Warren Street,9,Northern,N9
+Warren Street,Euston,9,Northern,N9R
+Warren Street,Goodge Street,7,Northern,N10
+Goodge Street,Warren Street,7,Northern,N10R
+Goodge Street,Tottenham Court Road,7,Northern,N11
+Tottenham Court Road,Goodge Street,7,Northern,N11R
+Tottenham Court Road,Leicester Square,8,Northern,N12
+Leicester Square,Tottenham Court Road,8,Northern,N12R
+Leicester Square,Charing Cross,7,Northern,N13
+Charing Cross,Leicester Square,7,Northern,N13R
+Charing Cross,Embankment,3,Northern,N14
+Embankment,Charing Cross,3,Northern,N14R
+Embankment,Waterloo,6,Northern,N15
+Waterloo,Embankment,6,Northern,N15R
+Waterloo,Bank,33,Waterloo & City,W1
+Bank,Waterloo,33,Waterloo & City,W1R
+Aldgate East,Liverpool Street,11,Hammersmith & City,H1
+Liverpool Street,Aldgate East,11,Hammersmith & City,H1R
+Liverpool Street,Moorgate,6,Hammersmith & City,H2
+Moorgate,Liverpool Street,6,Hammersmith & City,H2R
+Moorgate,Barbican,10,Hammersmith & City,H3
+Barbican,Moorgate,10,Hammersmith & City,H3R
+Barbican,Farringdon,8,Hammersmith & City,H4
+Farringdon,Barbican,8,Hammersmith & City,H4R
+Farringdon,King's Cross St. Pancras,26,Hammersmith & City,H5
+King's Cross St. Pancras,Farringdon,26,Hammersmith & City,H5R
+King's Cross St. Pancras,Euston Square,15,Hammersmith & City,H6
+Euston Square,King's Cross St. Pancras,15,Hammersmith & City,H6R
+Euston Square,Great Portland Street,10,Hammersmith & City,H7
+Great Portland Street,Euston Square,10,Hammersmith & City,H7R
+Great Portland Street,Baker Street,13,Hammersmith & City,H8
+Baker Street,Great Portland Street,13,Hammersmith & City,H8R
+Baker Street,Edgware Road,10,Hammersmith & City,H9
+Edgware Road,Baker Street,10,Hammersmith & City,H9R
+Edgware Road,Paddington,10,Hammersmith & City,H10
+Paddington,Edgware Road,10,Hammersmith & City,H10R
