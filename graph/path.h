@@ -68,6 +68,12 @@ public:
                 paths.emplace_back(g.getEdge(g.getVertex(predecessor[check]), g.getVertex(check))); // from predecessor to vertex
                 check = predecessor[check];
             }
+            std::cout << "Start" << std::endl;
+            for (auto it = paths.rbegin(); it != paths.rend(); it++)
+            {
+                std::cout << it->get()->v1->key << " -> " << it->get()->v2->key << std::endl; 
+            }
+            std::cout << "End" << std::endl;
         }
         else
         {
